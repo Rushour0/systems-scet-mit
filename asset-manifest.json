@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/systems-scet-mit/static/css/main.ae7366ec.css",
+    "main.js": "/systems-scet-mit/static/js/main.8ec5924e.js",
+    "index.html": "/systems-scet-mit/index.html",
+    "main.ae7366ec.css.map": "/systems-scet-mit/static/css/main.ae7366ec.css.map",
+    "main.8ec5924e.js.map": "/systems-scet-mit/static/js/main.8ec5924e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae7366ec.css",
+    "static/js/main.8ec5924e.js"
+  ]
+}
